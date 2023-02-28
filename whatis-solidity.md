@@ -1,8 +1,8 @@
 ## What is Solidity Questions and answers 
 
-What is Solidity? \ 
-a) Programming language \ 
-b) Digital currency \ 
+What is Solidity? \
+a) Programming language \
+b) Digital currency \
 c) Decentralized network \ 
 d) Operating system 
 
